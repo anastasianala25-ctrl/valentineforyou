@@ -76,7 +76,7 @@ const CONFIG = {
     // Background Music (Optional)
     // Add your own music URL after getting proper licenses
     music: {
-        enabled: true,                     // Music feature is enabled
+                  // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://res.cloudinary.com/dcmf3emak/video/upload/v1770998904/Ify_Alyssa_-_Dua_Insan_ft._Adhitia_Sofyan_Official_Music_Video_-_Ify_Alyssa_l7o1jr.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
